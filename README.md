@@ -87,3 +87,6 @@ $ ./cat [file_name...]
 ```
 
 8) **env** - prints all of the currently set environmental variables to standard output.
+```
+env
+```
