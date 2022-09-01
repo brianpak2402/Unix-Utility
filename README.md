@@ -1,7 +1,7 @@
 
 # Unix Utilities
 ## About
-This file contains my implementations of eight commonly-used UNIX command-line functions.
+This file contains my implementations of eight commonly-used UNIX command-line functions, all of which I have built in case they do not function properly in a terminal application. 
 
 ## CONFIGURATION
 1. To compile and link all source code related to this project, enter the following command:
